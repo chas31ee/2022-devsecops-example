@@ -34,3 +34,5 @@ print(r)
 
 r = owmapi.fail_current_by_geo(lat, lon)
 print(r)
+
+# comment for test commit
